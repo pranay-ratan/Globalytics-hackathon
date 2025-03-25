@@ -32,7 +32,4 @@ The primary goal of the hackathon was to analyze the historical performance data
 - **Grant Proposal**: Review **Grant proposal.pptx** for budget information and event details that were presented to secure funding for the hackathon.
 - **Training Module**: The **Globalytics_self_training_module.pdf** will help you understand the tools and techniques needed to work with the datasets and come up with strategic recommendations.
 
-## License
-MIT License
 
-[View the Globalytics Hackathon Canva Presentation](https://www.canva.com/design/DAGh1LvcKtc/5k1loRkZ6UIJryl8LdG1Tg/view?utm_content=DAGh1LvcKtc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb0f5888f67)
