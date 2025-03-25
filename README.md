@@ -1,6 +1,6 @@
 # Globalytics Hackathon
 
-This repository contains all materials for the **Globalytics Hackathon**, a case competition developed in collaboration with AIESEC SFU. The event focused on leveraging data-driven insights to improve international exchange participation at SFU.
+This repository contains all materials for the **Globalytics Hackathon**, a case competition developed by me. The event focused on leveraging data-driven insights to improve international exchange participation at SFU.
 
 ## Case Challenge Overview
 The primary goal of the hackathon was to analyze the historical performance data of AIESEC's Exchange Participants (EP) from 2013 to 2024 and to develop actionable strategies to improve the number of SFU students participating in international exchanges.
